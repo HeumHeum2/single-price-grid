@@ -98,6 +98,7 @@ button {
   body {
     padding: 3rem 1rem;
   }
+
   .flex-row {
     flex-direction: column;
     flex-wrap: wrap;
